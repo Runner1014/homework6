@@ -13,4 +13,4 @@ aEvent += b;
 当aEvent触发时，b方法会执行。
 
 博客链接：https://blog.csdn.net/Runner1st/article/details/80260049  
-视频链接：（审核中）
+视频链接：http://v.youku.com/v_show/id_XMzU5NTU4NjczMg==.html?spm=a2h3j.8428770.3416059.1
